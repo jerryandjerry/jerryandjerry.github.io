@@ -1,0 +1,25 @@
+body {
+	background: url("image/7b5ab0a4bb40775037ad19fcc6d2e36a.jpg");
+	background-size: cover;
+	text-align: center;
+	font-family: Helvetica;
+}
+
+
+
+
+#slogan {
+	color: rgb(0,0,0,0.5);
+	font-size: 50px;
+	font-style: italic;
+	font-weight: bolder;
+	text-transform: uppercase;
+	text-decoration: none;
+/*	background: url("image/7b5ab0a4bb40775037ad19fcc6d2e36a.jpg")
+	background-size: cover;*/
+}
+
+ul {
+	text-align: left;
+	list-style-type: disc;
+}
